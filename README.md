@@ -1,6 +1,6 @@
 👋 Hi, I’m  BhavanaLanjewar
 
-Skilled in FrontEnd Technologies✍️ as React.js, Redux, EcmaScript, JavaScript, HTML, CSS, Bootstrap, GitHub for web and window-based applications.
+Skilled in FrontEnd Technologies✍️ as HTML, CSS,React.js, EcmaScript, JavaScript, Bootstrap, GitHub for web and window-based applications.
 
 I am a learner📝 and enthusiastic to learn new tech. I have created some mini projects💼 on Reactjs and other technologies.
 
